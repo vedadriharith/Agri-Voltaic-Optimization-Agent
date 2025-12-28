@@ -1,0 +1,14 @@
+# Ignore Python cache files (These are the junk files in that __pycache__ folder)
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders (if you made one later)
+env/
+venv/
+.venv/
+
+# Ignore system files
+.DS_Store
+
+*.zip
+*.pkl
