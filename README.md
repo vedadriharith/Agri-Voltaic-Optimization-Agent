@@ -39,7 +39,7 @@ The agent successfully learned to track the sun during peak hours while managing
 ## 🚀 How to Run
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/agri-voltaic-agent.git](https://github.com/YOUR_USERNAME/agri-voltaic-agent.git)
+    git clone https://github.com/vedadriharith/Agri-Voltaic-Optimization-Agent.git(https://github.com/vedadriharith/Agri-Voltaic-Optimization-Agent.git)
     cd agri-voltaic-agent
     ```
 
